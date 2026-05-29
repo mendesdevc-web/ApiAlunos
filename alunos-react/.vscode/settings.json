@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.printWidth": 300,
+  "prettier.singleAttributePerLine": false,
+  "prettier.bracketSameLine": true,
+  "javascript.format.enable": false,
+  "typescript.format.enable": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
